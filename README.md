@@ -9,10 +9,6 @@ Interactive Power BI dashboard analyzing global supply chain
 performance built in FI20 Analytics style — dark sidebar,
 KPI cards with sparklines, year tabs and multi-page analysis.
 
-📸 Preview
-![Sales Overview](screenshots/page1_sales_overview.png)
-![Delivery Analysis](screenshots/page2_delivery_returns.png)
-
 📄 Dashboard Pages
 
 | Page | Focus |
